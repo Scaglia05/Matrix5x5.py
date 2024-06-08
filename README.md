@@ -7,6 +7,7 @@ How to use:
 Run the code in a Python environment.
 Enter the name and quantity of five fruits when prompted.
 The program will display a list of entered fruits and calculated statistics.
+
 Functionalities:
 
 Data Entry: User can enter the name and quantity of different fruits.

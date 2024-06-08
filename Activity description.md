@@ -1,11 +1,11 @@
-Construa uma matriz 5x5 que seja capaz de guardar qual fruta você comprou na
-feira e quantas unidades de cada fruta.
+Build a 5x5 matrix that is capable of storing which fruit you bought at
+fair and how many units of each fruit.
 
-Visualize a matriz da seguinte forma:
-1a coluna -> Nome da frua
-2a coluna -> Quantidade de frutas
+View the matrix as follows:
+1st column -> Fruit name
+2nd column -> Quantity of fruits
 
-Após preencher a matriz, analise e responda:
-(a) Qual fruta você mais comprou? Exiba o nome e sua respectiva quantidade
-(b) Qual a quantidade total de frutas?
-(c) Qual a média geral de quantidades?
+After filling out the matrix, analyze and answer:
+(a) Which fruit did you buy the most? Display the name and its respective quantity
+(b) What is the total quantity of fruit?
+(c) What is the general average of quantities?
